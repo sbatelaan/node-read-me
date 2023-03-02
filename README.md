@@ -5,7 +5,7 @@
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [How to Use This Application](#HowToUseThisApplication)
+  * [How To Use This Application](#HowToUseThisApplication)
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)

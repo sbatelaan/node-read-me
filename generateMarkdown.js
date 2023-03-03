@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [How to Use This Application](#HowToUseThisApplication)
+  * [Usage](#usage)
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)
@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   ${data.description}
   ## Installation
   ${data.installation}
-  ## How To Use Application
+  ## Usage
   ${data.usage}
   ## Testing
   ${data.tests}

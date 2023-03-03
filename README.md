@@ -1,34 +1,28 @@
 
-  # Generate ReadMe
+  # testing
   ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   ## Table of Contents
-- [Generate ReadMe](#generate-readme)
-  - [License](#license)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Installation](#installation)
-  - [How To Use Application](#how-to-use-application)
-  - [Testing](#testing)
-  - [Contributors](#contributors)
-  - [Application link](#application-link)
-- [Questions](#questions)
-  - [Contact me via Email](#contact-me-via-email)
-  - [Link to my Github profile](#link-to-my-github-profile)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributors](#contributors)
+  * [Testing](#testing)
+  * [Questions](#questions)
   ## Description
-  test
+  testing
   ## Installation
-  test
-  ## How To Use Application
-  test
+  testing
+  ## Usage
+  testing
   ## Testing
-  test
+  testing
   ## Contributors
-  test
+  testing
   ## Application link
-  test
+  testing
   # Questions
   ## Contact me via Email
-  test
+  testing
   ## Link to my Github profile
-  test
+  testing

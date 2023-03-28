@@ -33,6 +33,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
+Video walkthrough https://drive.google.com/file/d/1WgsN5_wcveTFvpi4XrbAF_7JOahtF4wR/view
+
 
   ## Installation
   User can copy and paste the code into VS Code and run through their computer
